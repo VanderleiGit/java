@@ -11,7 +11,7 @@ public class Exercicio07 {
 
 
     //Entradas
-    System.out.println("Qual a sua altra?");
+    System.out.println("Qual a sua altura?");
     altura = teclado.nextfloat();
 
     //Processamento 
